@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah Rehan
 
-<!--
-**abdullahbinrehan-ai/abdullahbinrehan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Undergraduate  
+🤖 Generative AI & Prompt Engineering  
+🧠 LLM-based Chatbots | RAG Systems  
+🚀 Hugging Face Deployments  
 
-Here are some ideas to get you started:
+## 🔹 What I Do
+- Build and deploy Generative AI chatbots
+- Design effective prompts for LLMs
+- Implement Retrieval-Augmented Generation pipelines
+- Integrate APIs for real-world AI solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tools & Technologies
+- Python
+- LLM APIs
+- Hugging Face Spaces
+- Google Colab
+- Prompt Engineering
+- RAG
+
+## 🔹 Currently Learning
+- Advanced RAG architectures
+- LLM evaluation techniques
+- Scalable AI deployments
+
+📫 Open to internships and entry-level roles in AI & Generative AI.
